@@ -11,6 +11,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 # Misc
 
-## Stories
+## Talks
 
 - [Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
+- [Satoshi Client Operation: Overview](https://bitcointalk.org/index.php?topic=41718.0)
