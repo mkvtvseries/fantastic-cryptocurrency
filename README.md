@@ -30,3 +30,4 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [What did Bitcoin Core contributors ever do for us?](https://medium.com/@jfnewbery/what-did-bitcoin-core-contributors-ever-do-for-us-39fc2fedb5ef)
 - [MLTalks: Bitcoin Developers Gavin Andresen, Cory Fields, and Wladimir van der Laan](https://www.youtube.com/watch?v=MGiv-OuIA5I)
 - [Building Bitcoin Software From Source Code](https://www.youtube.com/watch?v=X6jtpe2_kUc)
+- [Top Bitcoin Core Dev Greg Maxwell DevCore](https://www.youtube.com/watch?v=RguZ0_nmSPw)
