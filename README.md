@@ -11,6 +11,10 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 # Misc
 
+## Paper
+
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](http://bitcoin.org/bitcoin.pdf)
+
 ## Talks
 
 - [Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
