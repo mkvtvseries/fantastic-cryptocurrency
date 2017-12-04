@@ -11,6 +11,11 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 # Misc
 
+## Author
+
+- [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+- [Posts of satoshi](https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts)
+
 ## Paper
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](http://bitcoin.org/bitcoin.pdf)
