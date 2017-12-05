@@ -30,6 +30,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - [Is a Git Repository a Blockchain?](https://medium.com/@shemnon/is-a-git-repository-a-blockchain-35cb1cd2c491)
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=9s)
+- [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 ## Bitcoin Core
 
