@@ -33,6 +33,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - [Blockchain Explanation](https://www.youtube.com/watch?v=J-ab9was1p0)
 - [What are bitcoin miners really solving?](https://bitcoin.stackexchange.com/questions/8031/what-are-bitcoin-miners-really-solving)
+- [How I Cornered the Bitcoin Mining Market Using a Quantum Computer (Theoretically!)](https://hackernoon.com/how-i-cornered-the-bitcoin-mining-market-using-a-quantum-computer-9e5dceba9f92)
 
 ## Bitcoin Core
 
