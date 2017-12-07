@@ -35,6 +35,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [What are bitcoin miners really solving?](https://bitcoin.stackexchange.com/questions/8031/what-are-bitcoin-miners-really-solving)
 - [How I Cornered the Bitcoin Mining Market Using a Quantum Computer (Theoretically!)](https://hackernoon.com/how-i-cornered-the-bitcoin-mining-market-using-a-quantum-computer-9e5dceba9f92)
 - [The Proof-of-Work Concept ](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/)
+- [How does Proof of Work, um, work?](https://decentralize.today/how-does-proof-of-work-um-work-f44642b24215)
 
 ## Bitcoin Core
 
