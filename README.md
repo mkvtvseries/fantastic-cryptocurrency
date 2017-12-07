@@ -32,6 +32,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=9s)
 - [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - [Blockchain Explanation](https://www.youtube.com/watch?v=J-ab9was1p0)
+- [What are bitcoin miners really solving?](https://bitcoin.stackexchange.com/questions/8031/what-are-bitcoin-miners-really-solving)
 
 ## Bitcoin Core
 
