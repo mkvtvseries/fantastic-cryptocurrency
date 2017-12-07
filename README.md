@@ -34,6 +34,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [Blockchain Explanation](https://www.youtube.com/watch?v=J-ab9was1p0)
 - [What are bitcoin miners really solving?](https://bitcoin.stackexchange.com/questions/8031/what-are-bitcoin-miners-really-solving)
 - [How I Cornered the Bitcoin Mining Market Using a Quantum Computer (Theoretically!)](https://hackernoon.com/how-i-cornered-the-bitcoin-mining-market-using-a-quantum-computer-9e5dceba9f92)
+- [Explaining blockchain — how proof of work enables trustless consensus](https://keepingstock.net/explaining-blockchain-how-proof-of-work-enables-trustless-consensus-2abed27f0845)
 
 ## Bitcoin Core
 
