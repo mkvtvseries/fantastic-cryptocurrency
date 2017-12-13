@@ -35,6 +35,10 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 - https://blockchain.info/
 
+### Wallet
+
+- https://github.com/spesmilo/electrum Electrum; Bitcoin thin client
+
 ### Bitcoin Core
 
 - [What did Bitcoin Core contributors ever do for us?](https://medium.com/@jfnewbery/what-did-bitcoin-core-contributors-ever-do-for-us-39fc2fedb5ef)
