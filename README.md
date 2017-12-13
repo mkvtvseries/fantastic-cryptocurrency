@@ -10,7 +10,7 @@
 
 - https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
 
-### Info
+### Posts
 
 - [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - [Is a Git Repository a Blockchain?](https://medium.com/@shemnon/is-a-git-repository-a-blockchain-35cb1cd2c491)
@@ -50,6 +50,10 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [MLTalks: Bitcoin Developers Gavin Andresen, Cory Fields, and Wladimir van der Laan](https://www.youtube.com/watch?v=MGiv-OuIA5I)
 - [Building Bitcoin Software From Source Code](https://www.youtube.com/watch?v=X6jtpe2_kUc)
 - [Top Bitcoin Core Dev Greg Maxwell DevCore](https://www.youtube.com/watch?v=RguZ0_nmSPw)
+
+### Misc
+
+- [bitcoinj](https://github.com/bitcoinj/bitcoinj) A library for working with Bitcoin http://www.bitcoinj.org
 
 ## Ethereum
 
