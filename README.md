@@ -48,3 +48,4 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 - https://etherscan.io/
 - https://www.myetherwallet.com/
+- https://github.com/ethereum/mist
