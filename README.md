@@ -46,7 +46,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 ### Info
 
-- https://etherscan.io/
+- https://etherscan.io/ Ethereum block explorer
 
 ### Wallet
 
