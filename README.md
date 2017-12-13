@@ -6,7 +6,11 @@
 
 - https://coinmarketcap.com/
 
-### Posts
+### Wallet
+
+- https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
+
+### Info
 
 - [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - [Is a Git Repository a Blockchain?](https://medium.com/@shemnon/is-a-git-repository-a-blockchain-35cb1cd2c491)
@@ -37,7 +41,8 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 ### Wallet
 
-- https://bitcoin.org/en/choose-your-wallet
+- https://bitcoin.org/en/choose-your-wallet JavaScript Client-Side Bitcoin Wallet Generator bitaddress.org
+- https://github.com/pointbiz/bitaddress.org 
 
 ### Bitcoin Core
 
