@@ -37,6 +37,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 ### Wallet
 
+- https://bitcoin.org/en/choose-your-wallet
 - https://github.com/spesmilo/electrum Electrum; Bitcoin thin client
 
 ### Bitcoin Core
