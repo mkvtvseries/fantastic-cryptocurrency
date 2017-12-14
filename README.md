@@ -61,6 +61,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 ### Misc
 
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) A library for working with Bitcoin http://www.bitcoinj.org
+- [bitcore](https://github.com/bitpay/bitcore) A full stack for bitcoin and blockchain-based applications 
 
 ## Ethereum
 
