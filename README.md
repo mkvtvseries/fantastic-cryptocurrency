@@ -71,6 +71,8 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) Bitcoin-related functions implemented in pure JavaScript
 - [cryptocoinjs](https://github.com/cryptocoinjs/) CryptoCoinJS is a JavaScript project that helps you to interface with many of the crypto currencies
 - [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
+- [bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) Set of bitcoin-related bash functions
+- [generate_bitcoin_address.sh](https://gist.github.com/colindean/5239812)
 
 ## Ethereum
 
