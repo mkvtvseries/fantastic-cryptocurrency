@@ -68,6 +68,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) A library for working with Bitcoin http://www.bitcoinj.org
 - [bitcore](https://github.com/bitpay/bitcore) A full stack for bitcoin and blockchain-based applications 
+- [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) Bitcoin-related functions implemented in pure JavaScript
 - [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
 
 ## Ethereum
