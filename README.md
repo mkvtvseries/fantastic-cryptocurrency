@@ -28,6 +28,7 @@
 - [How are different Addresses generated from the same Private key?](https://bitcoin.stackexchange.com/questions/48322/how-are-different-addresses-generated-from-the-same-private-key)
 - [What happens if you send Bitcoin to a Litecoin address?](https://bitcoin.stackexchange.com/questions/16933/what-happens-if-you-send-bitcoin-to-a-litecoin-address)
 - [Why do you use Bitcoin addresses instead of public keys?](https://bitcoin.stackexchange.com/questions/49158/why-do-you-use-bitcoin-addresses-instead-of-public-keys)
+- [If addresses are hashes of public keys, how are signatures verified?](https://bitcoin.stackexchange.com/questions/8500/if-addresses-are-hashes-of-public-keys-how-are-signatures-verified?rq=1)
 
 ## Bitcoin
 
