@@ -31,6 +31,13 @@
 - [If addresses are hashes of public keys, how are signatures verified?](https://bitcoin.stackexchange.com/questions/8500/if-addresses-are-hashes-of-public-keys-how-are-signatures-verified?rq=1)
 - [Is it possible to brute force bitcoin address creation in order to steal money?](https://bitcoin.stackexchange.com/questions/22/is-it-possible-to-brute-force-bitcoin-address-creation-in-order-to-steal-money)
 
+### Exchange
+
+- https://coinfalcon.com/
+- https://www.bitfinex.com/
+- https://coinbase.com/
+- https://www.kraken.com/
+
 ### Misc
 
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
