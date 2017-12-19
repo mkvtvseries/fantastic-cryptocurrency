@@ -29,6 +29,8 @@
 - [The Proof-of-Work Concept ](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/)
 - [How does Proof of Work, um, work?](https://decentralize.today/how-does-proof-of-work-um-work-f44642b24215)
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
+- [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
+- [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
 
 ### Questions
 
@@ -38,11 +40,6 @@
 - [Why do you use Bitcoin addresses instead of public keys?](https://bitcoin.stackexchange.com/questions/49158/why-do-you-use-bitcoin-addresses-instead-of-public-keys)
 - [If addresses are hashes of public keys, how are signatures verified?](https://bitcoin.stackexchange.com/questions/8500/if-addresses-are-hashes-of-public-keys-how-are-signatures-verified?rq=1)
 - [Is it possible to brute force bitcoin address creation in order to steal money?](https://bitcoin.stackexchange.com/questions/22/is-it-possible-to-brute-force-bitcoin-address-creation-in-order-to-steal-money)
-
-### Crypto
-
-- [Keys as property](http://davidederosa.com/basic-blockchain-programming/keys-as-property/)
-- [Elliptic curve keys](http://davidederosa.com/basic-blockchain-programming/elliptic-curve-keys/)
 
 ## Bitcoin
 
@@ -79,7 +76,6 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [bitcore](https://github.com/bitpay/bitcore) A full stack for bitcoin and blockchain-based applications 
 - [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) Bitcoin-related functions implemented in pure JavaScript
 - [cryptocoinjs](https://github.com/cryptocoinjs/) CryptoCoinJS is a JavaScript project that helps you to interface with many of the crypto currencies
-- [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
 - [bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) Set of bitcoin-related bash functions
 - [generate_bitcoin_address.sh](https://gist.github.com/colindean/5239812)
 
