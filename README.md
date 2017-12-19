@@ -10,6 +10,13 @@
 
 - https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
 
+### Exchange
+
+- https://coinfalcon.com/
+- https://www.bitfinex.com/
+- https://coinbase.com/
+- https://www.kraken.com/
+
 ### Posts
 
 - [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4)
@@ -21,6 +28,7 @@
 - [How I Cornered the Bitcoin Mining Market Using a Quantum Computer (Theoretically!)](https://hackernoon.com/how-i-cornered-the-bitcoin-mining-market-using-a-quantum-computer-9e5dceba9f92)
 - [The Proof-of-Work Concept ](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/)
 - [How does Proof of Work, um, work?](https://decentralize.today/how-does-proof-of-work-um-work-f44642b24215)
+- [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
 
 ### Questions
 
@@ -31,16 +39,10 @@
 - [If addresses are hashes of public keys, how are signatures verified?](https://bitcoin.stackexchange.com/questions/8500/if-addresses-are-hashes-of-public-keys-how-are-signatures-verified?rq=1)
 - [Is it possible to brute force bitcoin address creation in order to steal money?](https://bitcoin.stackexchange.com/questions/22/is-it-possible-to-brute-force-bitcoin-address-creation-in-order-to-steal-money)
 
-### Exchange
+### Crypto
 
-- https://coinfalcon.com/
-- https://www.bitfinex.com/
-- https://coinbase.com/
-- https://www.kraken.com/
-
-### Misc
-
-- [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
+- [Keys as property](http://davidederosa.com/basic-blockchain-programming/keys-as-property/)
+- [Elliptic curve keys](http://davidederosa.com/basic-blockchain-programming/elliptic-curve-keys/)
 
 ## Bitcoin
 
