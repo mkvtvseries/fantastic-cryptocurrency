@@ -27,8 +27,7 @@
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
 - [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 - [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
-- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-
-address/)
+- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
 - [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
 
 ### Questions
