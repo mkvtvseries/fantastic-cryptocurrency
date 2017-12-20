@@ -6,10 +6,6 @@
 
 - https://coinmarketcap.com/
 
-### Wallet
-
-- https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
-
 ### Exchange
 
 - https://coinfalcon.com/
@@ -31,6 +27,9 @@
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
 - [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 - [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
+- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-
+address/)
+- [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
 
 ### Questions
 
@@ -41,9 +40,11 @@
 - [If addresses are hashes of public keys, how are signatures verified?](https://bitcoin.stackexchange.com/questions/8500/if-addresses-are-hashes-of-public-keys-how-are-signatures-verified?rq=1)
 - [Is it possible to brute force bitcoin address creation in order to steal money?](https://bitcoin.stackexchange.com/questions/22/is-it-possible-to-brute-force-bitcoin-address-creation-in-order-to-steal-money)
 
-## Bitcoin
+## Currencies
 
-### Story
+### Bitcoin
+
+#### Story
 
 - Source code [2008](https://github.com/onmyway133/fantastic-bitcoin/tree/master/2008)
 From https://bitcointalk.org/index.php?topic=382374.0
@@ -54,23 +55,14 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
 - [Satoshi Client Operation: Overview](https://bitcointalk.org/index.php?topic=41718.0)
 
-### Info
+#### Info
 
 - https://blockchain.info/
-
-### Wallet
-
 - https://bitcoin.org/en/choose-your-wallet JavaScript Client-Side Bitcoin Wallet Generator bitaddress.org
 - https://github.com/pointbiz/bitaddress.org 
+- https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
 
-### Bitcoin Core
-
-- [What did Bitcoin Core contributors ever do for us?](https://medium.com/@jfnewbery/what-did-bitcoin-core-contributors-ever-do-for-us-39fc2fedb5ef)
-- [MLTalks: Bitcoin Developers Gavin Andresen, Cory Fields, and Wladimir van der Laan](https://www.youtube.com/watch?v=MGiv-OuIA5I)
-- [Building Bitcoin Software From Source Code](https://www.youtube.com/watch?v=X6jtpe2_kUc)
-- [Top Bitcoin Core Dev Greg Maxwell DevCore](https://www.youtube.com/watch?v=RguZ0_nmSPw)
-
-### Misc
+#### Posts
 
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) A library for working with Bitcoin http://www.bitcoinj.org
 - [bitcore](https://github.com/bitpay/bitcore) A full stack for bitcoin and blockchain-based applications 
@@ -78,15 +70,16 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [cryptocoinjs](https://github.com/cryptocoinjs/) CryptoCoinJS is a JavaScript project that helps you to interface with many of the crypto currencies
 - [bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) Set of bitcoin-related bash functions
 - [generate_bitcoin_address.sh](https://gist.github.com/colindean/5239812)
+- [What did Bitcoin Core contributors ever do for us?](https://medium.com/@jfnewbery/what-did-bitcoin-core-contributors-ever-do-for-us-39fc2fedb5ef)
+- [MLTalks: Bitcoin Developers Gavin Andresen, Cory Fields, and Wladimir van der Laan](https://www.youtube.com/watch?v=MGiv-OuIA5I)
+- [Building Bitcoin Software From Source Code](https://www.youtube.com/watch?v=X6jtpe2_kUc)
+- [Top Bitcoin Core Dev Greg Maxwell DevCore](https://www.youtube.com/watch?v=RguZ0_nmSPw)
 
-## Ethereum
+### Ethereum
 
-### Info
+#### Info
 
 - https://etherscan.io/ Ethereum block explorer
-
-### Wallet
-
 - https://www.ethereum.org/cli Command line tools for the Ethereum Network
 - https://www.myetherwallet.com/ Free, open-source, client-side interface for generating Ethereum wallets
 - https://github.com/ethereum/mist Mist. Browse and use Ðapps on the Ethereum network
