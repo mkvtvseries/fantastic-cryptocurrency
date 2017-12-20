@@ -5,9 +5,6 @@
 ### Info
 
 - https://coinmarketcap.com/
-
-### Exchange
-
 - https://coinfalcon.com/
 - https://www.bitfinex.com/
 - https://coinbase.com/
@@ -26,6 +23,7 @@
 - [How does Proof of Work, um, work?](https://decentralize.today/how-does-proof-of-work-um-work-f44642b24215)
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
 - [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
+- [Elliptic curves: Building blocks of a better Trapdoor](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
 ### Questions
 
