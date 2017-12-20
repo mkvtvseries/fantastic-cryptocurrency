@@ -26,9 +26,6 @@
 - [How does Proof of Work, um, work?](https://decentralize.today/how-does-proof-of-work-um-work-f44642b24215)
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
 - [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
-- [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
-- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
-- [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
 
 ### Questions
 
@@ -61,7 +58,13 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - https://github.com/pointbiz/bitaddress.org 
 - https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
 
+
 #### Posts
+
+- [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
+- [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
+
+#### Misc
 
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) A library for working with Bitcoin http://www.bitcoinj.org
 - [bitcore](https://github.com/bitpay/bitcore) A full stack for bitcoin and blockchain-based applications 
@@ -82,3 +85,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - https://www.ethereum.org/cli Command line tools for the Ethereum Network
 - https://www.myetherwallet.com/ Free, open-source, client-side interface for generating Ethereum wallets
 - https://github.com/ethereum/mist Mist. Browse and use Ðapps on the Ethereum network
+
+#### Posts
+
+- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
