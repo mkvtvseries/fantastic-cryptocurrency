@@ -24,6 +24,7 @@
 - [How to add a new currency](https://github.com/MichaelMure/WalletGenerator.net/wiki/How-to-add-a-new-currency)
 - [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 - [Elliptic curves: Building blocks of a better Trapdoor](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [How to fork Bitcoin and build own cryptocurrency](https://bitcoin.stackexchange.com/questions/19287/how-to-fork-bitcoin-and-build-own-cryptocurrency)
 
 ### Questions
 
