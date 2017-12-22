@@ -26,6 +26,7 @@
 - [Elliptic curves: Building blocks of a better Trapdoor](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 - [How to fork Bitcoin and build own cryptocurrency](https://bitcoin.stackexchange.com/questions/19287/how-to-fork-bitcoin-and-build-own-cryptocurrency)
 - [Complete Guide on How to Create a New Alt Coin](https://bitcointalk.org/index.php?topic=225690.0)
+- [Trying to understand blockchain by making one!](https://dev.to/damcosset/trying-to-understand-blockchain-by-making-one-ce4)
 
 ### Questions
 
