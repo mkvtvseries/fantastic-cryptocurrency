@@ -1,8 +1,10 @@
 # fantastic-blockchain
 
-## Blockchain
+# Blockchain
 
-### Info
+## General
+
+### Exchange
 
 - https://coinmarketcap.com/
 - https://coinfalcon.com/
@@ -37,11 +39,13 @@
 - [If addresses are hashes of public keys, how are signatures verified?](https://bitcoin.stackexchange.com/questions/8500/if-addresses-are-hashes-of-public-keys-how-are-signatures-verified?rq=1)
 - [Is it possible to brute force bitcoin address creation in order to steal money?](https://bitcoin.stackexchange.com/questions/22/is-it-possible-to-brute-force-bitcoin-address-creation-in-order-to-steal-money)
 
-## Currencies
+### Misc
 
-### Bitcoin
+- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) 💰 A macOS app to safely generate cryptocurrency address
 
-#### Story
+## Bitcoin
+
+### Story
 
 - Source code [2008](https://github.com/onmyway133/fantastic-bitcoin/tree/master/2008)
 From https://bitcointalk.org/index.php?topic=382374.0
@@ -52,20 +56,12 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
 - [Satoshi Client Operation: Overview](https://bitcointalk.org/index.php?topic=41718.0)
 
-#### Info
-
-- https://blockchain.info/
-- https://bitcoin.org/en/choose-your-wallet JavaScript Client-Side Bitcoin Wallet Generator bitaddress.org
-- https://github.com/pointbiz/bitaddress.org 
-- https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
-
-
-#### Posts
+### Posts
 
 - [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
 - [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
 
-#### Misc
+### Misc
 
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) A library for working with Bitcoin http://www.bitcoinj.org
 - [bitcore](https://github.com/bitpay/bitcore) A full stack for bitcoin and blockchain-based applications 
@@ -77,16 +73,28 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - [MLTalks: Bitcoin Developers Gavin Andresen, Cory Fields, and Wladimir van der Laan](https://www.youtube.com/watch?v=MGiv-OuIA5I)
 - [Building Bitcoin Software From Source Code](https://www.youtube.com/watch?v=X6jtpe2_kUc)
 - [Top Bitcoin Core Dev Greg Maxwell DevCore](https://www.youtube.com/watch?v=RguZ0_nmSPw)
+- https://blockchain.info/
+- https://bitcoin.org/en/choose-your-wallet JavaScript Client-Side Bitcoin Wallet Generator bitaddress.org
+- https://github.com/pointbiz/bitaddress.org 
+- https://github.com/MichaelMure/WalletGenerator.net Universal JavaScript Client-Side Wallet Generator http://walletgenerator.net
 
-### Ethereum
+## Ethereum
 
-#### Info
+### Posts
+
+- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
+
+### Misc
 
 - https://etherscan.io/ Ethereum block explorer
 - https://www.ethereum.org/cli Command line tools for the Ethereum Network
 - https://www.myetherwallet.com/ Free, open-source, client-side interface for generating Ethereum wallets
 - https://github.com/ethereum/mist Mist. Browse and use Ðapps on the Ethereum network
 
-#### Posts
+# Hashgraph
 
-- [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
+## General
+
+### Posts
+
+- [Demystifying Hashgraph: Benefits and Challenges](https://hackernoon.com/demystifying-hashgraph-benefits-and-challenges-d605e5c0cee5)
