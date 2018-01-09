@@ -1,4 +1,4 @@
-# fantastic-blockchain
+# fantastic-crytocurrency
 
 # Blockchain
 
