@@ -98,3 +98,4 @@ From https://bitcointalk.org/index.php?topic=382374.0
 ### Posts
 
 - [Demystifying Hashgraph: Benefits and Challenges](https://hackernoon.com/demystifying-hashgraph-benefits-and-challenges-d605e5c0cee5)
+- [Hashgraph Security and Attack Resilience](https://www.youtube.com/watch?v=pcToFASnyrc&feature=youtu.be)
