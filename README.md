@@ -83,6 +83,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 ### Posts
 
 - [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
+- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) Mastering Bitcoin 2nd Edition - Programming the Open Blockchain bitcoinbook.info
 
 ### Misc
 
