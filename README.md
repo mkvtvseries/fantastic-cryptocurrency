@@ -61,6 +61,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 
 - [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
 - [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
+- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) Mastering Bitcoin 2nd Edition - Programming the Open Blockchain bitcoinbook.info
 
 ### Misc
 
@@ -84,7 +85,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 ### Posts
 
 - [Generating a usable Ethereum wallet and its corresponding keys](https://kobl.one/blog/create-full-ethereum-keypair-and-address)
-- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) Mastering Bitcoin 2nd Edition - Programming the Open Blockchain bitcoinbook.info
+- [How to Code Your Own CryptoKitties-Style Game on Ethereum](https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3)
 
 ### Misc
 
