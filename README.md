@@ -93,6 +93,7 @@ From https://bitcointalk.org/index.php?topic=382374.0
 - https://www.ethereum.org/cli Command line tools for the Ethereum Network
 - https://www.myetherwallet.com/ Free, open-source, client-side interface for generating Ethereum wallets
 - https://github.com/ethereum/mist Mist. Browse and use Ðapps on the Ethereum network
+- [CryptoZombies - Learn to code game on Ethereum](https://cryptozombies.io/course/)
 
 # Hashgraph
 
